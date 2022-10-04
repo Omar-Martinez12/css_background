@@ -89,7 +89,7 @@ II. Establezca el color de fondo en rojo, cuando pase el mouse sobre elementos c
 
 ```
 <style>
- .maestro:hover {
+ .master:hover {
   background-color: red;
 }
 </style>
