@@ -1,0 +1,48 @@
+body
+{
+    font-family: 'Roboto,Courier,Arial,Helvética', cursive;
+}
+
+.herobaner
+{
+    text-align: center;
+}
+
+.text
+{
+    color: purple;
+}
+
+p
+{
+    color: red;
+}
+
+.image
+{
+    height: 100vh; /*vh es Viewport Height o altura del dispositivo, 120vh = 120% */
+	width: 100vw; /* vw es Viewport Width o ancho del dispositivo, 100vw es lo mismo que 100%*/
+    background-image: url("/home/Drako-Dynasty/Escritorio/Hoy/Image/guns.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+	background-size: cover;
+    position: center;
+}
+
+.button
+{
+    font-size: 30px;
+	padding: 10px 20px;
+	margin: 10px;
+    border: black 5px solid;
+	border-radius: 35px;
+	background-color: gray;
+	color: white;
+}
+
+.button:hover
+{
+    background-color: aqua;
+	border: black 5px solid;
+	border-radius: 35px;
+}
