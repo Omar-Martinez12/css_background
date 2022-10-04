@@ -1,6 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body
 {
     font-family: 'Roboto,Courier,Arial,Helvética', cursive;
+    height: 100vh;
+    width: 100%;
+    background: url("/home/Drako-Dynasty/Documentos/LarnU/Hoy/Image/guns.jpg") 0/cover no-repeat ; /*lo pone de fondo completo*/
 }
 
 .herobaner
@@ -10,19 +19,19 @@ body
 
 .text
 {
-    color: purple;
+    color: white;
 }
 
 p
 {
-    color: red;
+    color: white;
 }
 
 .image
 {
     height: 100vh; /*vh es Viewport Height o altura del dispositivo, 120vh = 120% */
 	width: 100vw; /* vw es Viewport Width o ancho del dispositivo, 100vw es lo mismo que 100%*/
-    background-image: url("/css_background/Image/guns.jpg");
+   /* background-image: url("/home/Drako-Dynasty/Documentos/LarnU/Hoy/Image/guns.jpg");*/
     background-position: center;
     background-repeat: no-repeat;
 	background-size: cover;
