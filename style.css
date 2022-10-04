@@ -22,7 +22,7 @@ p
 {
     height: 100vh; /*vh es Viewport Height o altura del dispositivo, 120vh = 120% */
 	width: 100vw; /* vw es Viewport Width o ancho del dispositivo, 100vw es lo mismo que 100%*/
-    background-image: url("/css_background2/Image/guns.jpg");
+    background-image: url("/css_background/Image/guns.jpg");
     background-position: center;
     background-repeat: no-repeat;
 	background-size: cover;
