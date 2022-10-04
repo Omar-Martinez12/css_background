@@ -9,7 +9,7 @@ body
     font-family: 'Roboto,Courier,Arial,Helvética', cursive;
     height: 100vh;
     width: 100%;
-    background: url("/home/Drako-Dynasty/Documentos/LarnU/Hoy/Image/guns.jpg") 0/cover no-repeat ; /*lo pone de fondo completo*/
+    background: url("/css_background/Image/guns.jpg") 0/cover no-repeat ; /*lo pone de fondo completo*/
 }
 
 .herobaner
